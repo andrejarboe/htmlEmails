@@ -10,6 +10,7 @@ https://www.colorzilla.com/gradient-editor/
 
 https://css-tricks.com/snippets/css/better-helvetica/
 
+https://fontawesome.com/
 ```
 body {
     font-family: 'Open Sans',  'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
